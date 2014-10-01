@@ -1,0 +1,4 @@
+*.pyc
+*.py~
+*__init__.py*
+*.root
